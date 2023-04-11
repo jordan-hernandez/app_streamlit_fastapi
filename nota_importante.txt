@@ -1,0 +1,5 @@
+Primero se debe ejecutar el $ docker-compose up -d --build 
+y luego ejecutar $ docker-compose up. Para eliminar todos los
+contenedores se debe utilizar  $ docker rm -f $(docker ps -a -q) 
+
+https://testdriven.io/blog/fastapi-streamlit/

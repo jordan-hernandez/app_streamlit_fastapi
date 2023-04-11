@@ -1,0 +1,9 @@
+fastapi
+numpy
+opencv-python
+pillow
+python-multipart
+uvicorn
+protobuf==3.19.1 
+
+cryptography
